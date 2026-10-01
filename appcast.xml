@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>QBIKK</title>
+    <link>https://github.com/martinnguyeen/qbikk-releases</link>
+    <description>QBIKK for macOS</description>
+    <language>nb</language>
+    <item>
+      <title>QBIKK 0.1.2</title>
+      <pubDate>Thu, 01 Oct 2026 09:56:09 +0000</pubDate>
+      <sparkle:version>1002</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[## Første versjon med automatiske oppdateringer
+
+- QBIKK ser nå selv etter nye versjoner én gang om dagen og laster dem ned i bakgrunnen.
+- Når en ny versjon er klar, ser du «Ny versjon er klar» nederst i sidemenyen. Trykk **Installer og start på nytt** når det passer deg.
+- Oppdateringen venter til et opptak, en transkripsjon eller AI-behandling er ferdig.
+- Dataene, innstillingene og tilkoblingene dine blir som de er.
+- Nytt under **Settings ▸ Updates**: se etter oppdateringer automatisk, når det sist ble sjekket, og **Sjekk nå**.
+]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/v0.1.2/QBIKK-0.1.2.zip" length="18957355" type="application/octet-stream" sparkle:edSignature="wra+pdKEMsGXDIjVQhz+GSkW4tDVpvpcYnJCx8hp6nslZVCXBQ/KdvBFnuBgfWicKB5t+keZZRToVVc6MxcrBg=="/>
+    </item>
+  </channel>
+</rss>
