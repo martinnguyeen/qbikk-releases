@@ -6,6 +6,26 @@
     <description>QBIKK for macOS</description>
     <language>nb</language>
     <item>
+      <title>QBIKK 0.1.4</title>
+      <pubDate>Sat, 03 Oct 2026 18:37:18 +0000</pubDate>
+      <sparkle:version>1004</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[## Tankekart
+
+Hvert opptak får nå et tankekart under sammendraget. Det viser temaene i samtalen og hvordan beslutninger, løfter, spørsmål og personer henger sammen.
+
+- Trykk `▶` på en node for å hoppe til akkurat det stedet i opptaket.
+- Kartet kan redigeres. Du kan legge til og flytte noder, gi dem nye navn og lage dine egne koblinger. Forslagene fra QBIKK kan du godta eller avvise.
+- Endringene dine blir værende når kartet lages på nytt.
+- QBIKK lærer av koblingene du lager. De gir bedre treff i Spør, vises under «Relatert» og på personsiden, og blir brukt når neste kart lages.
+- Kartet kan eksporteres som Markdown, OPML eller PNG, og vises også som en liste for VoiceOver.
+
+Kartet lages med KI-behandling på NTNU, så det krever at KI-behandling er slått på. Alt lagres bare på denne Macen.
+]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/v0.1.4/QBIKK-0.1.4.zip" length="32029369" type="application/octet-stream" sparkle:edSignature="FFa67tB4iYGqn1/Cgy3/EGhfuFGX7O9CU33wKdjIIdzDHSqCqNT4tZ7WiQ/7TrdK99Jkk3pPoQ90iXmADMAxAA=="/>
+    </item>
+    <item>
       <title>QBIKK 0.1.3</title>
       <pubDate>Fri, 02 Oct 2026 08:31:56 +0000</pubDate>
       <sparkle:version>1003</sparkle:version>
