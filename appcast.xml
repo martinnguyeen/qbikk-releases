@@ -6,6 +6,18 @@
     <description>QBIKK for macOS</description>
     <language>nb</language>
     <item>
+      <title>QBIKK 0.1.7</title>
+      <pubDate>Sat, 03 Oct 2026 21:54:44 +0000</pubDate>
+      <sparkle:version>1007</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[## Nytt i QBIKK 0.1.7
+
+**Feilretting:** Claude (MCP) kan igjen lese QBIKK med en gang appen er oppdatert eller startet på nytt. Før kunne Claude få beskjed om at QBIKK-lageret «ikke kunne åpnes», fordi AI-forbruksloggen holdt lageret åpent litt for lenge.
+]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/v0.1.7/QBIKK-0.1.7.zip" length="33029758" type="application/octet-stream" sparkle:edSignature="SzZXC5JtC0eeizYiqpv0U8pfePjLQJDh2ffXdHcOjWmbZnojwvrijChNbpZoeeaf2C6/MZJT7rF5GLCkwPHuAg=="/>
+    </item>
+    <item>
       <title>QBIKK 0.1.6</title>
       <pubDate>Sat, 03 Oct 2026 21:30:31 +0000</pubDate>
       <sparkle:version>1006</sparkle:version>
