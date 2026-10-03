@@ -6,6 +6,20 @@
     <description>QBIKK for macOS</description>
     <language>nb</language>
     <item>
+      <title>QBIKK 0.1.5</title>
+      <pubDate>Sat, 03 Oct 2026 20:11:57 +0000</pubDate>
+      <sparkle:version>1005</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[## Nytt i 0.1.5
+
+- **KI-bruk i Innsikt.** En ny fane, «KI», viser hvor mange tokens QBIKK har brukt (inn og ut), hvilken modell som brukes mest, hvor mange spørsmål du har stilt, en rekke med dager QBIKK brukte KI, hva tokens gikk til, og tokens per tatt opp minutt.
+- Oversikt har en ny linje, «KI-tokens», som åpner fanen.
+- Tellingen skjer bare på denne Macen og starter med denne versjonen. Ingen innhold lagres, bare tall og modellnavn.
+]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/v0.1.5/QBIKK-0.1.5.zip" length="32185911" type="application/octet-stream" sparkle:edSignature="0Lf3NId5+gH6GV+4vko7Oip7p/AMpocU1kxvmQELymc1DQvCvQcjPBaNhN+wdVHMY/j6vanJYj66trfjiKiWDA=="/>
+    </item>
+    <item>
       <title>QBIKK 0.1.4</title>
       <pubDate>Sat, 03 Oct 2026 18:37:18 +0000</pubDate>
       <sparkle:version>1004</sparkle:version>
