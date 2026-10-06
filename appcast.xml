@@ -6,6 +6,24 @@
     <description>QBIKK for macOS</description>
     <language>nb</language>
     <item>
+      <title>QBIKK 0.1.9</title>
+      <pubDate>Tue, 06 Oct 2026 22:42:58 +0000</pubDate>
+      <sparkle:version>1009</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[## Nytt i QBIKK 0.1.9
+
+**Nytt utseende med glass.** Hele appen har fått et nytt, lettere uttrykk med glassflater: I dag, kalenderen, opptak og møtesider, Spør, Gjøremål, Områder, Personer, Team, Innstillinger og oppstarten. På macOS 26 brukes Apples Liquid Glass. På eldre macOS, og når «Reduser gjennomsiktighet» eller «Øk kontrast» er slått på, får du tette flater som er lette å lese. Hver skjerm har én blå hovedknapp, og lange tekster står på nesten tette flater.
+
+**Enklere når et møte starter.** Når QBIKK ser at du er i et møte, kommer det nå én rolig rad med møtetittel, tid og en Start-knapp. Pilen ved siden av har «Ta opp til», «Ikke nå» og «Aldri for denne appen».
+
+**Liten opptaksknapp med lydbølge.** Under opptak ser du en liten mørk pille i stedet for det store panelet. Bølgen viser at lyden blir tatt opp, og Pause og Stopp er alltid synlige. Hold musen over pillen for å se hvor lenge du har tatt opp. Du kan dra den dit du vil på skjermen, og den åpner seg samme sted neste gang. Advarsler, som at lyd fra de andre mangler, vises bare når de gjelder.
+
+**Overskrifter på opptakene.** Hvert opptak får en kort overskrift (3–8 ord) som sier hva det handler om, skrevet av KI fra transkripsjonen og på samme språk. Før sto det bare dato eller filnavn. I listen ser du overskriften, en merkelapp for typen (Idé eller Møte) og dato og tid under. Du kan gi opptaket nytt navn, eller be om en ny overskrift med «Lag ny overskrift», både øverst på opptaket og i menyen på raden. Et navn du har skrevet selv, eller en tittel fra kalenderen, blir aldri byttet ut. Uten KI får opptaket de første ordene som ble sagt. Eldre opptak får overskrifter litt etter litt.
+]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/v0.1.9/QBIKK-0.1.9.zip" length="33658270" type="application/octet-stream" sparkle:edSignature="LueXMhk9W7u0va4jzzveJrz5CbgufmjU3IagiaiIc+8uIUzEjwjsUXzVin5bBmnI8dzYCx5jqDDxuZDLHtOtBQ=="/>
+    </item>
+    <item>
       <title>QBIKK 0.1.8</title>
       <pubDate>Tue, 06 Oct 2026 22:23:56 +0000</pubDate>
       <sparkle:version>1008</sparkle:version>
