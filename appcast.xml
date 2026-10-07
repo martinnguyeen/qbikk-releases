@@ -6,6 +6,24 @@
     <description>QBIKK for macOS</description>
     <language>nb</language>
     <item>
+      <title>QBIKK 0.1.11</title>
+      <pubDate>Wed, 07 Oct 2026 13:33:03 +0000</pubDate>
+      <sparkle:version>1011</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[## Nytt i QBIKK 0.1.11
+
+**Ditt dashbord.** «I dag» heter nå «Ditt dashbord» og er satt sammen av blokker: Trenger deg, Stoppet opp, Tid, Dagen i tall, Tidslinje, Hele dagen, Forfaller, Gjøremål og oppfølging, QBIKK gjorde, Forfalt og I morgen. Uten endringer ser siden ut som før.
+
+**Tilpass.** Trykk «Tilpass» øverst. Dra en blokk for å flytte den, dra i kanten for å gjøre den bredere eller smalere, velg høyde i størrelsesmenyen, skjul eller fjern den. Fjernede blokker legger du til igjen nederst. «Angre» (⌘Z) og «Tilbakestill» finnes der også. Oppsettet huskes på denne Macen.
+
+**Si det med ord.** Skriv eller dikter i feltet nederst, på norsk eller engelsk: «gjør kalenderen større», «skjul forfalt», «flytt forfaller til toppen», «angre». Mikrofonknappen starter diktering. × lukker feltet, og «Lag ditt eget panel» øverst åpner det igjen. Tekst du skriver der går aldri ut av Macen.
+
+**Opptak og svar.** Opptakslisten viser ett kort per opptak med type, relativ dato og fremdrift. Under «Hva kom ut av det» ligger beslutninger og løfter som kort, ved siden av transkripsjonen når vinduet er bredt. Svar i «Spør» er større, med kildene som brikker i teksten.
+]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/v0.1.11/QBIKK-0.1.11.zip" length="34553209" type="application/octet-stream" sparkle:edSignature="+ixbW/d3gKwbyLsEzcwA0wEpR8iPhOm9aHV/0ZWpFQEmmfxFambMlORyAjRaZWJzBcKoXkMCb2cOC83CgUYMCQ=="/>
+    </item>
+    <item>
       <title>QBIKK 0.1.10</title>
       <pubDate>Wed, 07 Oct 2026 10:49:43 +0000</pubDate>
       <sparkle:version>1010</sparkle:version>
