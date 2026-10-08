@@ -6,6 +6,30 @@
     <description>QBIKK for macOS</description>
     <language>nb</language>
     <item>
+      <title>QBIKK 0.1.12</title>
+      <pubDate>Thu, 08 Oct 2026 08:34:12 +0000</pubDate>
+      <sparkle:version>1012</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[## Nytt i QBIKK 0.1.12
+
+**Gjøremål havner i riktig liste.** Si eller skriv flere ting på én gang, for eksempel «ring Kari om tilbudet, kjøp brød og ost». QBIKK deler det opp i egne gjøremål og legger hvert av dem i listen der det hører hjemme: Kari i jobblisten, brød og ost i handlelisten. Nevner du en liste selv («handleliste: egg, melk»), havner alt der. Er QBIKK usikker, går gjøremålet til standardlisten din.
+
+**Google Tasks.** QBIKK kan nå legge gjøremål i Google Tasks, ikke bare Todoist. Slå det på under Innstillinger ▸ Integrasjoner ▸ Google, og koble til Google på nytt én gang for å gi tilgang. Du kan også la QBIKK legge dem inn automatisk, akkurat som med Todoist. Bryteren for det er av til du slår den på.
+
+**Hovedapp for gjøremål.** Bruker du både Todoist og Google Tasks, velger du hvilken som er hovedappen under Integrasjoner ▸ Todoist ▸ «Hvor gjøremål havner». Gjøremål uten liste går dit. Lister i den andre appen brukes bare når du nevner dem ved navn.
+
+**Underoppgaver og etiketter i Todoist.** QBIKK kan lage en oppgave med underoppgaver («festforberedelser: kjøp ballonger, bestill kake»). Den bruker etikettene du allerede har i Todoist, som «telefon» på en samtale, og lager aldri nye.
+
+**Forhåndsvisning og Angre.** I «Spør» ser du hvert gjøremål under listen det skal til før du legger det inn. Du kan flytte et gjøremål til en annen liste eller fjerne det. «Angre» fjerner alt igjen, både i Todoist og i Google Tasks.
+
+**Hva AI-en ville kostet.** Innsikt ▸ AI viser nå hva QBIKKs bruk av AI ville kostet i dollar hos en betalt leverandør. NTNU AI er gratis, så du betaler ingenting. Tallet er et overslag ut fra listepriser.
+
+**Feilrettinger.** «Spør» henger ikke lenger i flere minutter når AI-tjenesten ikke svarer. Den gir opp etter 30 sekunder.
+]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/v0.1.12/QBIKK-0.1.12.zip" length="35591694" type="application/octet-stream" sparkle:edSignature="J33pDlPDTFkFbhiBMJCFbL0h9pfbyDa6LyhUcj2BM/2NN4uQLE3H9m9rgXR7Q6dy3hG5BJa7OpSt56EZ0PmLDA=="/>
+    </item>
+    <item>
       <title>QBIKK 0.1.11</title>
       <pubDate>Wed, 07 Oct 2026 13:33:03 +0000</pubDate>
       <sparkle:version>1011</sparkle:version>
