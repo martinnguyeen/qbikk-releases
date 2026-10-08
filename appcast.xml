@@ -6,6 +6,24 @@
     <description>QBIKK for macOS</description>
     <language>nb</language>
     <item>
+      <title>QBIKK 0.1.13</title>
+      <pubDate>Thu, 08 Oct 2026 10:39:19 +0000</pubDate>
+      <sparkle:version>1013</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[## Nytt i QBIKK 0.1.13
+
+**Rapporter til riktig innboks.** Rapportene fra QBIKK kan nå gå til flere e-postadresser, ikke bare Google-kontoen din. Legg til for eksempel jobbadressen under Innstillinger ▸ AI ▸ Rapporter til meg ▸ «Legg til adresse…». QBIKK sender en kode til adressen. Den får ingenting før du har skrevet inn koden. Du kan legge til opptil tre adresser.
+
+**Jobb til jobb, privat til privat.** Under «Hvor rapportene går» velger du hvilken adresse hvert område skal til, for eksempel «Selskapet mitt» til jobb. Opptak i andre områder går til standardadressen din. Dagsrapporten går til én adresse du velger.
+
+**Du bestemmer per opptak.** På et opptak kan du velge «Rapport til» eller «Ikke send e-post» før rapporten går. Hører et opptak til områder som peker til ulike adresser, sender ikke QBIKK noe før du har valgt. QBIKK gjetter aldri, og sender aldri til en annen adresse enn den som er valgt.
+
+E-posten sendes fortsatt fra Gmail-kontoen din. Den sier nederst hvorfor den kom til akkurat denne adressen.
+]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/v0.1.13/QBIKK-0.1.13.zip" length="35829830" type="application/octet-stream" sparkle:edSignature="m8huDFHYZFHWTIc14Nk0qCUtlyNPUZa/QTW3avEgio6/RdpPCzkOKa37573G7XITCr67Iog6FWFbDyVE2GgTCw=="/>
+    </item>
+    <item>
       <title>QBIKK 0.1.12</title>
       <pubDate>Thu, 08 Oct 2026 08:34:12 +0000</pubDate>
       <sparkle:version>1012</sparkle:version>
