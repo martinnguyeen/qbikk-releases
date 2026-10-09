@@ -6,6 +6,38 @@
     <description>QBIKK for macOS</description>
     <language>nb</language>
     <item>
+      <title>QBIKK 0.1.14</title>
+      <pubDate>Fri, 09 Oct 2026 07:06:11 +0000</pubDate>
+      <sparkle:version>1014</sparkle:version>
+      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[## Nytt i QBIKK 0.1.14
+
+Denne versjonen er en stor opprydding. Vi har gått gjennom hele appen og rettet over åtti feil. Det meste merker du bare ved at ting virker som de skal.
+
+**Tryggere godkjenning fra telefonen.** Svarer du «1 ja» på Telegram, gjelder svaret alltid forslagene du faktisk svarte på, aldri en nyere runde. Et løst «ok» eller «ja» godkjenner ikke lenger noe. Avtaler legges ikke automatisk i kalenderen om natten (før 06:00 eller fra 23:00). De kommer som forslag i stedet.
+
+**Opptak mister ikke lyd.** Trykker du Stopp mens et opptak starter, stopper mikrofonen også. Får ikke QBIKK lagret lyd på disken, blir statusprikken rød i stedet for grønn. Feiler sammenslåingen av lydbitene, beholdes bitene. Gjenoppretting etter krasj er også gjort sikrere.
+
+**Lyden slettes etter sju dager.** Innstillingen for hvor lenge lyd beholdes virker nå. Rå lyd slettes etter sju dager, men aldri før transkripsjonen er ferdig.
+
+**Norsk og engelsk i samme møte.** Språket gjenkjennes nå for hver bolk med tale, ikke bare de første 30 sekundene. Møter som veksler mellom norsk og engelsk blir dermed riktig transkribert.
+
+**Riktig person får oppgaven.** «I tillegg skal Kari …» leses ikke lenger som engelsk «I», så det er Kari og ikke du som står som ansvarlig.
+
+**Gmail og Google.** Gmail-synkroniseringen stopper ikke lenger når en e-post er slettet. «Koble fra Google» trekker nå også tilbake tilgangen hos Google. QBIKK ber ikke lenger om navnet og profilen din når du logger inn.
+
+**Lenker åpner riktig sted.** qbikk://-lenker i e-post og varsler åpner møtet, oppgaven eller forslaget i stedet for å gi en feilmelding.
+
+**Team.** Logger du inn med en annen konto, beholdes delingene fra den første kontoen.
+
+**Linear kommer senere.** Linear er tatt ut av oppsettet til integrasjonen er på plass.
+
+I tillegg: sikrere nye forsøk mot Notion, Toggl, Todoist og Google Tasks (ingen doble oppføringer), bedre lesing av e-post med andre tegnsett, flere hemmeligheter fjernet fra loggene, og flere tekster oversatt.
+]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/v0.1.14/QBIKK-0.1.14.zip" length="36236698" type="application/octet-stream" sparkle:edSignature="2ysL9OYcdUKVbveOeOwGmvd9l4JndelvPynqQ1bBP/o6G6l6oMq7rn2VsZnzocgtsnBleIO4SOlizDQ1/VIYDA=="/>
+    </item>
+    <item>
       <title>QBIKK 0.1.13</title>
       <pubDate>Thu, 08 Oct 2026 10:39:19 +0000</pubDate>
       <sparkle:version>1013</sparkle:version>
