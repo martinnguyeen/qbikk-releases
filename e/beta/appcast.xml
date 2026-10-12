@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>E by QBIKK Beta</title>
+    <link>https://qbikk.com/e</link>
+    <item>
+      <title>0.2.0-beta.1</title>
+      <pubDate>Mon, 12 Oct 2026 16:56:09 GMT</pubDate>
+      <sparkle:version>2000001</sparkle:version>
+      <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Feilrettinger og forbedringer.</p>]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.1/QBIKK-E-Beta-0.2.0-beta.1.zip" length="247515091" type="application/octet-stream" sparkle:edSignature="tl8lYimFq6x2yAAnwOvIs1jqcLkjkklUHxjAi13dCMf0E+Jnz1hnoDp6sdGbN83r1DQz5PJ7VIOOdq76kUYhBg=="/>
+    </item>
+  </channel>
+</rss>
