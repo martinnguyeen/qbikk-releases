@@ -4,31 +4,13 @@
     <title>E by QBIKK Beta</title>
     <link>https://qbikk.com/e</link>
     <item>
-      <title>0.2.0-beta.3</title>
-      <pubDate>Mon, 19 Oct 2026 08:36:46 GMT</pubDate>
-      <sparkle:version>2000003</sparkle:version>
-      <sparkle:shortVersionString>0.2.0-beta.3</sparkle:shortVersionString>
+      <title>0.2.0-beta.4</title>
+      <pubDate>Mon, 19 Oct 2026 12:05:46 GMT</pubDate>
+      <sparkle:version>2000004</sparkle:version>
+      <sparkle:shortVersionString>0.2.0-beta.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nytt i denne betaen:</p><ul><li>**Gmail:** E leser e-posten din (bare lesetilgang og utkast), finner løfter og forespørsler, og kan lage oppfølgings-e-post som Gmail-utkast. Ingenting sendes uten at du bekrefter.</li><li>**Kalender:** E foreslår møter fra opptakene dine, og kan legge dem inn automatisk når du slår det på (bare i ledige tider).</li><li>**Områder:** forslag til nye områder, minne per område, og spørsmål avgrenset til et område (#område).</li><li>**Rydd opp om natten:** E sorterer opptak i områder om natten, med et morgenkort og «Angre natten».</li><li>**Dashbord:** tilpass blokkene, «Trenger deg»-køen, kom-i-gang-listen og snarveier (⌘1–5, ⌘K, ⌘F).</li><li>**Ny velkomst:** en kort onboarding for nye kontoer.</li><li>**Dagssiden:** dagens møter, beslutninger og løfter samlet.</li><li>**Innsikt:** «Oppgaver gjort av agenter» og AI-milepæler.</li><li>**Team:** deling til team med forhåndsvisning, team-feed og varsler.</li><li>**Claude (MCP):** grunnlaget for at Claude Desktop kan lese QBIKK-dataene dine (innstillingene kommer i neste beta).</li><li>Mange feilrettinger.</li></ul>]]></description>
-      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.3/QBIKK-E-Beta-0.2.0-beta.3.zip" length="248724077" type="application/octet-stream" sparkle:edSignature="G0hrkjLfGEgDbmU6kkN+4fA9rSmXVdwvF0pZ5wgLD69UQpUVtdVzM0CnI38SJaqnF7bXUg17qF/1IY+g8kPrBA=="/>
-    </item>
-    <item>
-      <title>0.2.0-beta.2</title>
-      <pubDate>Tue, 13 Oct 2026 17:50:28 GMT</pubDate>
-      <sparkle:version>2000002</sparkle:version>
-      <sparkle:shortVersionString>0.2.0-beta.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Feilrettinger og forbedringer.</p>]]></description>
-      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.2/QBIKK-E-Beta-0.2.0-beta.2.zip" length="248435156" type="application/octet-stream" sparkle:edSignature="JH/lpQ1zVlvAitT3QsDIBFZinoEExovzU66AT7t+kW1nMokrGg1XAv5kMC7Z55WzQ0J8+myJn04k5CpnIk3VCw=="/>
-    </item>
-    <item>
-      <title>0.2.0-beta.1</title>
-      <pubDate>Mon, 12 Oct 2026 16:56:09 GMT</pubDate>
-      <sparkle:version>2000001</sparkle:version>
-      <sparkle:shortVersionString>0.2.0-beta.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Feilrettinger og forbedringer.</p>]]></description>
-      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.1/QBIKK-E-Beta-0.2.0-beta.1.zip" length="247515091" type="application/octet-stream" sparkle:edSignature="tl8lYimFq6x2yAAnwOvIs1jqcLkjkklUHxjAi13dCMf0E+Jnz1hnoDp6sdGbN83r1DQz5PJ7VIOOdq76kUYhBg=="/>
+      <description><![CDATA[<p>Nytt i denne betaen:</p><ul><li>**Oppdateringer fra GitLab:** E henter nå oppdateringer fra GitLab. Denne versjonen flytter appen over; du trenger ikke gjøre noe.</li><li>**Claude (MCP):** Innstillinger ▸ Tilkoblinger ▸ Claude — slå på Claude Desktop eller Claude Code, og kopier oppsettet.</li><li>**Velkomst:** verktøy, firmaer, områder, tilkoblinger, mikrofon og talemodell i onboardingen.</li><li>**Teamsøk:** spørsmål kan også finne det teamet ditt har delt med deg.</li><li>**Oppsummeringer:** varsler etter møter og om kvelden (uten innhold på låseskjermen).</li><li>Feilrettinger.</li></ul>]]></description>
+      <enclosure url="https://gitlab.com/api/v4/projects/87806713/packages/generic/qbikk-e-beta/e-v0.2.0-beta.4/QBIKK-E-Beta-0.2.0-beta.4.zip" length="248750531" type="application/octet-stream" sparkle:edSignature="dKYi3XJKkBxN2XPed3cii7cvQUZo5rdG2LmrO56XV+jCfmySgAUWYQrIQzJ48Z/vwXzlTAmvkLFYdP//MEvECA=="/>
     </item>
   </channel>
 </rss>

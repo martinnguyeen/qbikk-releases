@@ -1,4 +1,4 @@
-# E by QBIKK Beta 0.2.0-beta.3: for testers
+# E by QBIKK Beta 0.2.0-beta.4: for testers
 
 This is what comes next in E by QBIKK, a few days to weeks before everyone gets it. Expect rough edges, and tell
 us about them. Martin, the QBIKK team and invited testers use it.
@@ -9,9 +9,9 @@ computer. You sign in to the same QBIKK account in both.
 
 | Your computer | Download | Needs |
 | --- | --- | --- |
-| Mac with Apple silicon (M1 or newer) | [QBIKK-E-Beta-mac-arm64.dmg](https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.3/QBIKK-E-Beta-mac-arm64.dmg) | macOS 14 Sonoma or newer |
-| Mac with an Intel processor | [QBIKK-E-Beta-mac-x64.dmg](https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.3/QBIKK-E-Beta-mac-x64.dmg) | macOS 14 Sonoma or newer |
-| Windows PC | [QBIKK-E-Beta-win-x64.exe](https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.3/QBIKK-E-Beta-win-x64.exe) | Windows 10 or 11, 64-bit |
+| Mac with Apple silicon (M1 or newer) | [QBIKK-E-Beta-mac-arm64.dmg](https://gitlab.com/api/v4/projects/87806713/packages/generic/qbikk-e-beta/e-v0.2.0-beta.4/QBIKK-E-Beta-mac-arm64.dmg) | macOS 14 Sonoma or newer |
+| Mac with an Intel processor | [QBIKK-E-Beta-mac-x64.dmg](https://gitlab.com/api/v4/projects/87806713/packages/generic/qbikk-e-beta/e-v0.2.0-beta.4/QBIKK-E-Beta-mac-x64.dmg) | macOS 14 Sonoma or newer |
+| Windows PC | [QBIKK-E-Beta-win-x64.exe](https://gitlab.com/api/v4/projects/87806713/packages/generic/qbikk-e-beta/e-v0.2.0-beta.4/QBIKK-E-Beta-win-x64.exe) | Windows 10 or 11, 64-bit |
 
 Which Mac do you have? Apple menu ▸ About This Mac: "Chip: Apple M…" is Apple silicon, "Processor: … Intel" is Intel.
 
@@ -41,4 +41,4 @@ if you have it. Recordings made in the beta stay in the beta's own folder (Mac:
 `~/Library/Application Support/QBIKK E Beta/Recordings`, Windows: `%APPDATA%\QBIKK E Beta\Recordings`); copy
 any you want to keep before you delete that folder.
 
-Release notes: https://github.com/martinnguyeen/qbikk-releases/releases/tag/e-v0.2.0-beta.3
+Release notes: https://gitlab.com/qbikk-releases/e/-/releases/e-v0.2.0-beta.4
