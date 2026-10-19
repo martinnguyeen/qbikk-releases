@@ -4,6 +4,15 @@
     <title>E by QBIKK Beta</title>
     <link>https://qbikk.com/e</link>
     <item>
+      <title>0.2.0-beta.3</title>
+      <pubDate>Mon, 19 Oct 2026 08:36:46 GMT</pubDate>
+      <sparkle:version>2000003</sparkle:version>
+      <sparkle:shortVersionString>0.2.0-beta.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Nytt i denne betaen:</p><ul><li>**Gmail:** E leser e-posten din (bare lesetilgang og utkast), finner løfter og forespørsler, og kan lage oppfølgings-e-post som Gmail-utkast. Ingenting sendes uten at du bekrefter.</li><li>**Kalender:** E foreslår møter fra opptakene dine, og kan legge dem inn automatisk når du slår det på (bare i ledige tider).</li><li>**Områder:** forslag til nye områder, minne per område, og spørsmål avgrenset til et område (#område).</li><li>**Rydd opp om natten:** E sorterer opptak i områder om natten, med et morgenkort og «Angre natten».</li><li>**Dashbord:** tilpass blokkene, «Trenger deg»-køen, kom-i-gang-listen og snarveier (⌘1–5, ⌘K, ⌘F).</li><li>**Ny velkomst:** en kort onboarding for nye kontoer.</li><li>**Dagssiden:** dagens møter, beslutninger og løfter samlet.</li><li>**Innsikt:** «Oppgaver gjort av agenter» og AI-milepæler.</li><li>**Team:** deling til team med forhåndsvisning, team-feed og varsler.</li><li>**Claude (MCP):** grunnlaget for at Claude Desktop kan lese QBIKK-dataene dine (innstillingene kommer i neste beta).</li><li>Mange feilrettinger.</li></ul>]]></description>
+      <enclosure url="https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.3/QBIKK-E-Beta-0.2.0-beta.3.zip" length="248724077" type="application/octet-stream" sparkle:edSignature="G0hrkjLfGEgDbmU6kkN+4fA9rSmXVdwvF0pZ5wgLD69UQpUVtdVzM0CnI38SJaqnF7bXUg17qF/1IY+g8kPrBA=="/>
+    </item>
+    <item>
       <title>0.2.0-beta.2</title>
       <pubDate>Tue, 13 Oct 2026 17:50:28 GMT</pubDate>
       <sparkle:version>2000002</sparkle:version>

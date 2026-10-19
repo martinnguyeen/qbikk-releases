@@ -1,8 +1,8 @@
-version: 0.2.0-beta.2
+version: 0.2.0-beta.3
 files:
-  - url: https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.2/QBIKK-E-Beta-win-x64.exe
-    sha512: yd6mgB1sd0arUpPPF+abah0B1hNuLbfUVvhjZ+q0KuvlW0WmX+E1hgNazTAVFnK6jVtoh5ivSaLDk+Ufeeb0eQ==
-    size: 122222981
-path: https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.2/QBIKK-E-Beta-win-x64.exe
-sha512: yd6mgB1sd0arUpPPF+abah0B1hNuLbfUVvhjZ+q0KuvlW0WmX+E1hgNazTAVFnK6jVtoh5ivSaLDk+Ufeeb0eQ==
-releaseDate: '2026-10-13T17:54:24.421Z'
+  - url: https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.3/QBIKK-E-Beta-win-x64.exe
+    sha512: Ez/PhlY4+F7+lnKMIXc0g50jQ9uTJxk3LYkdKiXNXwHVY64JX3DmOQ48LMwkMzL6jSgYqGuKOIXeRymNL25j5g==
+    size: 122442316
+path: https://github.com/martinnguyeen/qbikk-releases/releases/download/e-v0.2.0-beta.3/QBIKK-E-Beta-win-x64.exe
+sha512: Ez/PhlY4+F7+lnKMIXc0g50jQ9uTJxk3LYkdKiXNXwHVY64JX3DmOQ48LMwkMzL6jSgYqGuKOIXeRymNL25j5g==
+releaseDate: '2026-10-19T08:41:19.362Z'
